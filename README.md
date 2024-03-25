@@ -45,13 +45,11 @@ To run the Snoopify Summaries web app locally, follow these steps:
 4. Access the web app in your browser at the provided URL.
 
 ## Deployment:
-![Output2](./deployment/static/images/SS1.jpeg "deployment")
 - https://snoopifysumaries.streamlit.app/
 
 ## Conclusion
-- 🫶  The machine learning model to convert a text document to abstract is done successfully.
-- 🫶  Created a streamlit app using an api call from my hugging face repository & LSTM Model.
-
+- The machine learning model to convert a text document to abstract is done successfully.
+- Created a streamlit app using an api call from my hugging face repository & LSTM Model.
 - 
 ## Feedback and Contributions
 
