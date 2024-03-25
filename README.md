@@ -6,11 +6,11 @@ Snoopify Summaries is a web application that allows users to generate summaries 
 
 ### Training Model Overview
 
-1) Loss graph
+1) Loss graph:
 
 ![Output](./model/train_log.jpeg "loss overview")
 
-2) encoder-decoder overview
+2) Encoder-Decoder overview:
 ![Output1](./model/model_plot.jpeg "model overview")
 
 ## Features
